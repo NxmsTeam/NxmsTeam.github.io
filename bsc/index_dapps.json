@@ -36,6 +36,12 @@
                 "type": "推荐",
                 "items": [
                     {
+                        "name": "BSC Scan",
+                        "des": "BSC区块链浏览器",
+                        "url": "https://explorer.binance.org/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/bscscan.png"
+                    },
+                    {
                         "name": "SWFT Bridge",
                         "des": "BTC/ETH/TrOn/BSC/SOL/AVAX/•上简单、安全、可靠的跨链交换",
                         "url": "https://defi.swft.pro/",
@@ -45,7 +51,7 @@
                         "name": "CoinTool",
                         "des": "",
                         "url": "https://ct.app/dashboard",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/11.png"
+                        "logo": "https://tokens.openloom.me/bsc/hot_dapp/cointool.png"
                     }
                 ]
             }
