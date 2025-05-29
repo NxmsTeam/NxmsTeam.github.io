@@ -24,6 +24,30 @@
             {
                 "type": "热门推荐",
                 "items": [
+                     {
+                        "name": "OpenLoom",
+                        "des": "",
+                        "url": "https://openloom.me/#/home",
+                        "logo": "https://tokens.openloom.me/bsc/hot_dapp/website.png"
+                    },
+                     {
+                        "name": "OpenLoom智慧库",
+                        "des": "",
+                        "url": "https://link3.cc/openloom",
+                        "logo": "https://tokens.openloom.me/bsc/hot_dapp/library.png"
+                    },
+                     {
+                        "name": "CoinTool",
+                        "des": "",
+                        "url": "https://ct.app/dashboard",
+                        "logo": "https://tokens.openloom.me/bsc/hot_dapp/cointools.png"
+                    },
+                     {
+                        "name": "BSC Scan",
+                        "des": "BSC区块链浏览器",
+                        "url": "https://explorer.binance.org/",
+                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/bscscan.png"
+                    },
                     {
                         "name": "PancakeSwap",
                         "des": "在银河系中最受欢迎的去中心化平台上交易，赚取和赢取加密货币。",
@@ -36,34 +60,10 @@
                 "type": "推荐",
                 "items": [
                     {
-                        "name": "BSC Scan",
-                        "des": "BSC区块链浏览器",
-                        "url": "https://explorer.binance.org/",
-                        "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/bscscan.png"
-                    },
-                    {
                         "name": "SWFT Bridge",
                         "des": "BTC/ETH/TrOn/BSC/SOL/AVAX/•上简单、安全、可靠的跨链交换",
                         "url": "https://defi.swft.pro/",
                         "logo": "https://hashpayinfo.github.io/bsc/hot_dapp/SWFT_Bridge.png"
-                    },
-                     {
-                        "name": "CoinTool",
-                        "des": "",
-                        "url": "https://ct.app/dashboard",
-                        "logo": "https://tokens.openloom.me/bsc/hot_dapp/cointools.png"
-                    },
-                     {
-                        "name": "OpenLoom智慧库",
-                        "des": "",
-                        "url": "https://link3.cc/openloom",
-                        "logo": "https://tokens.openloom.me/bsc/hot_dapp/library.png"
-                    },
-                     {
-                        "name": "OpenLoom官网",
-                        "des": "",
-                        "url": "https://openloom.me/#/home",
-                        "logo": "https://tokens.openloom.me/bsc/hot_dapp/website.png"
                     }
                 ]
             }
