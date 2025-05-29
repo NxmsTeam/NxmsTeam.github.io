@@ -52,6 +52,18 @@
                         "des": "",
                         "url": "https://ct.app/dashboard",
                         "logo": "https://tokens.openloom.me/bsc/hot_dapp/cointools.png"
+                    },
+                     {
+                        "name": "OpenLoom Wisdom Library",
+                        "des": "",
+                        "url": "https://link3.cc/openloom",
+                        "logo": "https://tokens.openloom.me/bsc/hot_dapp/library.png"
+                    },
+                     {
+                        "name": "OpenLoom official website",
+                        "des": "",
+                        "url": "https://openloom.me/#/home",
+                        "logo": "https://tokens.openloom.me/bsc/hot_dapp/website.png"
                     }
                 ]
             }
