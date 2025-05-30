@@ -11,6 +11,14 @@
       "logoURI": "https://hashpayinfo.github.io/bsc/0x55d398326f99059ff775485246999027b3197955/logo.png"
     },
     {
+      "name": "OneCoin",
+      "protocol": "20",
+      "symbol": "on",
+      "address": "0x604448c8f009135e913C7e0E4Bef692B0003A02A",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
       "name": "Binance-Peg USD Coin",
       "protocol": "20",
       "symbol": "USDC",
