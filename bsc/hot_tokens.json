@@ -13,10 +13,10 @@
     {
       "name": "OneCoin",
       "protocol": "20",
-      "symbol": "on",
+      "symbol": "ON",
       "address": "0x604448c8f009135e913C7e0E4Bef692B0003A02A",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://tokens.openloom.me/bsc/0x604448c8f009135e913c7e0e4bef692b0003a02a/logo.png"
     },
     {
       "name": "Binance-Peg USD Coin",
