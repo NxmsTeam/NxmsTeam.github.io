@@ -22,7 +22,7 @@
       "name": "OneCoin",
       "protocol": "20",
       "symbol": "on",
-      "address": "0x604448c8f009135e913C7e0E4Bef692B0003A02A",
+      "address": "0x604448c8f009135e913c7e0e4bef692b0003a02a",
       "decimals": 18,
       "logoURI": ""
     }
